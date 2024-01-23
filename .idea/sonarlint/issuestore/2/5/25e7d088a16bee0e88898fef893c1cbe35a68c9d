@@ -1,0 +1,16 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡¢Šœüÿÿÿÿ8×‘ªÓ1
+V
+java:S1854"9Remove this useless assignment to local variable "email".(ï»Ş“8İ‘ªÓ1
+G
+java:S1481"*Remove this unused "email" local variable.(ï»Ş“8Ş‘ªÓ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ıºÂ†ÿÿÿÿÿ8Ş‘ªÓ1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Ş‘ªÓ1
+h
+java:S1612"FReplace this lambda with method reference 'Customer::getPhoneNumbers'.(«±ìúÿÿÿÿ8ß‘ªÓ1
+G	java:S106"+Replace this use of System.out by a logger.(ªƒØÌ8ıí±«Ó1
+X	java:S125"<This block of commented-out lines of code should be removed.(ƒË¿¨8Á´«Ó1
+o
+java:S6204'"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ß‘ªÓ1
+L	java:S106("+Replace this use of System.out by a logger.(å©«şüÿÿÿÿ8Ş½³«Ó1

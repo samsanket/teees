@@ -1,0 +1,22 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îœæ|8­¶İ«Ó1
+d
+java:S1854"BRemove this useless assignment to local variable "emailOptional2".(—ĞÜíûÿÿÿÿ8ÆîÂ®Ó1
+c
+java:S1854"ARemove this useless assignment to local variable "emailOptional".(«ÂÌÅüÿÿÿÿ8µŸ¬Ó1
+f
+java:S1854"DRemove this useless assignment to local variable "optionalCustomer".(Æª”Üşÿÿÿÿ8ßå¬Ó1
+[
+java:S1854"9Remove this useless assignment to local variable "empty".(øûø¬úÿÿÿÿ8àå¬Ó1
+L
+java:S1481"*Remove this unused "empty" local variable.(øûø¬úÿÿÿÿ8âå¬Ó1
+X	java:S125"<This block of commented-out lines of code should be removed.(§Âä•8âå¬Ó1
+W
+java:S1481"5Remove this unused "optionalCustomer" local variable.(Æª”Üşÿÿÿÿ8âå¬Ó1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÿÔ·Ïùÿÿÿÿ8âå¬Ó1
+T
+java:S1481"2Remove this unused "emailOptional" local variable.(«ÂÌÅüÿÿÿÿ8·Ÿ¬Ó1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ÿ˜È‹8·Ÿ¬Ó1
+U
+java:S1481"3Remove this unused "emailOptional2" local variable.(—ĞÜíûÿÿÿÿ8ÈîÂ®Ó1
+]	java:S125"<This block of commented-out lines of code should be removed.(ê”Ôóüÿÿÿÿ8ÈîÂ®Ó1

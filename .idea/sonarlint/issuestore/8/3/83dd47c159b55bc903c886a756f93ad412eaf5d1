@@ -1,0 +1,16 @@
+
+K
+java:S3740B"/Provide the parametrized type for this generic.(ÊèžP8°÷´…È1
+X
+java:S18549";Remove this useless assignment to local variable "result3".(»Í¤ú8À÷´…È1
+]
+java:S18544";Remove this useless assignment to local variable "result2".(×„šòþÿÿÿÿ8À÷´…È1
+X
+java:S1854/";Remove this useless assignment to local variable "result1".(ñ¨èÚ8À÷´…È1
+I
+java:S1481/",Remove this unused "result1" local variable.(ñ¨èÚ8Á÷´…È1
+N
+java:S14814",Remove this unused "result2" local variable.(×„šòþÿÿÿÿ8Â÷´…È1
+I
+java:S14819",Remove this unused "result3" local variable.(»Í¤ú8Â÷´…È1
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(†ñª×øÿÿÿÿ8Â÷´…È1

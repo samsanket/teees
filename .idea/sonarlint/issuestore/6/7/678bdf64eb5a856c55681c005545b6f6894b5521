@@ -1,0 +1,70 @@
+
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Mumbai" 3 times.(Œæõ8¼¨•İĞ1
+l
+java:S1192"JDefine a constant instead of duplicating this literal "Karnataka" 5 times.(ÆÜÄıÿÿÿÿ8¼¨•İĞ1
+t
+java:S1192"WDefine a constant instead of duplicating this literal "Mechanical Engineering" 4 times.(Œæõ8½¨•İĞ1
+w
+java:S1192"UDefine a constant instead of duplicating this literal "Computer Engineering" 3 times.(ê¯÷ùÿÿÿÿ8½¨•İĞ1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ê·İíüÿÿÿÿ8Ä¨•İĞ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( °ğı8Å¨•İĞ1
+m
+java:S3655<"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ñÏ¹8ñ¨•İĞ1
+g
+java:S1854B"ERemove this useless assignment to local variable "averageMaleFelame".(ˆ°²åøÿÿÿÿ8ö¨•İĞ1
+j
+java:S1854<"MRemove this useless assignment to local variable "collectedMaxStundetResult".(ñÏ¹8ö¨•İĞ1
+a
+java:S18548"DRemove this useless assignment to local variable "collectedResults".(¬×Œ€8ö¨•İĞ1
+`
+java:S18543"DRemove this useless assignment to local variable "studentByNameMap".(õĞ›"8ö¨•İĞ1
+c
+java:S1854."FRemove this useless assignment to local variable "studnetPhoneNumber".(®ç²é8ö¨•İĞ1
+[
+java:S1854'">Remove this useless assignment to local variable "listStream".(‚Õ‰µ8ö¨•İĞ1
+e
+java:S1854 "CRemove this useless assignment to local variable "departmentNames".(õ´ûÿÿÿÿ8÷¨•İĞ1
+l
+java:S1854"JRemove this useless assignment to local variable "findByKarnatakaAndSort".(Ê·İíüÿÿÿÿ8÷¨•İĞ1
+^
+java:S1854"ARemove this useless assignment to local variable "rankInBetween".(¢Ìæ®8÷¨•İĞ1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ù¨•İĞ1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¢Ìæ®8€©•İĞ1
+O
+java:S1481"2Remove this unused "rankInBetween" local variable.(¢Ìæ®8…©•İĞ1
+]	java:S125"<This block of commented-out lines of code should be removed.(¢¥Ùòùÿÿÿÿ8†©•İĞ1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ê·İíüÿÿÿÿ8†©•İĞ1
+]
+java:S1481";Remove this unused "findByKarnatakaAndSort" local variable.(Ê·İíüÿÿÿÿ8‰©•İĞ1
+X	java:S125"<This block of commented-out lines of code should be removed.(áüØú8Š©•İĞ1
+V
+java:S1481 "4Remove this unused "departmentNames" local variable.(õ´ûÿÿÿÿ8‹©•İĞ1
+X	java:S125$"<This block of commented-out lines of code should be removed.( ¨¿½8Œ©•İĞ1
+^
+java:S1612("AReplace this lambda with method reference 'Student::getContacts'.(ıÉ®å8©•İĞ1
+L
+java:S1481'"/Remove this unused "listStream" local variable.(‚Õ‰µ8©•İĞ1
+X	java:S125*"<This block of commented-out lines of code should be removed.(¢†Ò†8©•İĞ1
+o
+java:S6204."RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(®ç²é8©•İĞ1
+T
+java:S1481."7Remove this unused "studnetPhoneNumber" local variable.(®ç²é8‘©•İĞ1
+]	java:S125/"<This block of commented-out lines of code should be removed.(¼Úİ¹ÿÿÿÿÿ8’©•İĞ1
+Q
+java:S14813"5Remove this unused "studentByNameMap" local variable.(õĞ›"8“©•İĞ1
+]	java:S1255"<This block of commented-out lines of code should be removed.(öùšíùÿÿÿÿ8“©•İĞ1
+R
+java:S14818"5Remove this unused "collectedResults" local variable.(¬×Œ€8•©•İĞ1
+X	java:S1259"<This block of commented-out lines of code should be removed.(¥×·ë8•©•İĞ1
+[
+java:S1481<">Remove this unused "collectedMaxStundetResult" local variable.(ñÏ¹8˜©•İĞ1
+X	java:S125>"<This block of commented-out lines of code should be removed.(¯œÊ÷8™©•İĞ1
+X
+java:S1481B"6Remove this unused "averageMaleFelame" local variable.(ˆ°²åøÿÿÿÿ8š©•İĞ1
+]	java:S125G"<This block of commented-out lines of code should be removed.(‡ñüòşÿÿÿÿ8›©•İĞ1
+F	java:S106N"+Replace this use of System.out by a logger.(¦×¹8©•İĞ1

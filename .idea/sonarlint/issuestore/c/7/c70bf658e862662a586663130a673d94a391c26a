@@ -1,0 +1,18 @@
+
+P
+java:S1854
+":Remove this useless assignment to local variable "result".(¿ÿì¹
+@
+java:S1197"*Move the array designators [] to the type.(Ê§…®
+A
+java:S1481
+"+Remove this unused "result" local variable.(¿ÿì¹
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(š¥©é
+R
+java:S1854"7Remove this useless assignment to local variable "top".(ì’œûÿÿÿÿ
+M
+java:S1854 "7Remove this useless assignment to local variable "top".(ßÁÕ×
+Q	java:S125%"<This block of commented-out lines of code should be removed.(ºé¨ˆ
+V	java:S1252"<This block of commented-out lines of code should be removed.(æö¸¹üÿÿÿÿ
+Q	java:S125<"<This block of commented-out lines of code should be removed.(Š„¨

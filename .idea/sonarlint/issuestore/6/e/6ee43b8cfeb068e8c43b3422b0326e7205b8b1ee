@@ -1,0 +1,13 @@
+
+C
+java:S1172"(Remove this unused method parameter "k".(Êƒ„Ûşÿÿÿÿ
+U
+java:S1612"@Replace this lambda with method reference 'System.out::println'.( Ö¥{
+M	java:S106"9Replace this use of System.out or System.err by a logger.( Ö¥{
+U
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Ä¥%
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ä¥%
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Êï¤èøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Êï¤èøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(õíìÄ
