@@ -87,3 +87,10 @@ I
 java8/optional/Dockerfile,6/7/67776d149e6af87b9528be5f3f5c9349ee8216b5
 T
 $java8/map/optional/OptionalDemo.java,8/4/8480f866142ec3faa81cfb9530a2b801bff9e180
+a
+1java8/parrallel_stream/ParralelStreamExample.java,8/5/8560c809e727131d86d5152c86930f132be15adc
+a
+1java8/parrallel_stream/ParallelStreamExample.java,1/5/158b7d2893061ed23e5b518e9eb55b9500d0b8e8
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
