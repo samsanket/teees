@@ -79,18 +79,22 @@ L
 java8/map/EkartDataBase.java,5/5/5525a99f356381498f8915c5de3acd8e35088093
 K
 java8/map/MapVsFlatMap.java,2/5/25e7d088a16bee0e88898fef893c1cbe35a68c9d
-K
-java8/optional/swagger.java,3/7/3746f921593c594627a7c85f11c3fa86fb5a6e8b
-K
-java8/optional/swagger.form,3/e/3e764bcc68408be4478f4bb468c1e4a77f869ce0
-I
-java8/optional/Dockerfile,6/7/67776d149e6af87b9528be5f3f5c9349ee8216b5
 T
 $java8/map/optional/OptionalDemo.java,8/4/8480f866142ec3faa81cfb9530a2b801bff9e180
-a
-1java8/parrallel_stream/ParralelStreamExample.java,8/5/8560c809e727131d86d5152c86930f132be15adc
 a
 1java8/parrallel_stream/ParallelStreamExample.java,1/5/158b7d2893061ed23e5b518e9eb55b9500d0b8e8
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+@
+statics/One.java,e/2/e25968da21d1fd0ca922e1edf358d375b45437cc
+@
+statics/Two.java,a/0/a00056cd79f9acde3f1fdb61b648e14bba17d2b6
+@
+statics/xyz.java,c/8/c80396fa00a8d11a14161304beaccce9104ee7a5
+>
+thiss/One.java,e/8/e8012ac420014e20ee18c98944d5a71b05e977e4
+>
+thiss/Two.java,b/6/b6efa6d4ecd810dd4b375d38d7c60293520eb3ff
+B
+statics/Three.java,4/1/41c57a118d02f8919f7b037bb83e6610ca868e2d
