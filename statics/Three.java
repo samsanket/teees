@@ -13,7 +13,7 @@ public class Three {
 
 static {
         c=100;
-        
+
 }
 
 }
