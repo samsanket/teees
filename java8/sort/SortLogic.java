@@ -24,7 +24,8 @@ public class SortLogic {
         System.out.println(str1 == str3);      // true
 
         employees.stream().filter(employee -> employee.getSalary()>90).collect(Collectors.toList());
-
+       List<Employee> employees1= employees.stream().sorted(Comparator.comparing(Employee::getName)).collect(Collectors.toList());
+        employees1.stream().forEach(System.out::println);
 
     }
 }
