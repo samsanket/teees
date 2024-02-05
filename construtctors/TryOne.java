@@ -1,10 +1,12 @@
 package construtctors;
 
 
+import java.io.IOException;
+
 class A {
 
 
-    public void print(){
+    public void print() throws IOException{
         System.out.println("This is A printing data ");
     }
 
@@ -17,7 +19,7 @@ class A {
 class B extends A {
 
 
-    public void print(){
+    public void print() throws IOException {
         System.out.println("This is B printing data ");
     }
 
@@ -28,7 +30,7 @@ class B extends A {
 
 class C extends B {
 
-    public void print(){
+    public void print() throws RuntimeException{
         System.out.println("This is C printing data ");
     }
 
@@ -40,7 +42,7 @@ class C extends B {
 
 
 public class TryOne {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         A c = new A();
         c.print();
 
