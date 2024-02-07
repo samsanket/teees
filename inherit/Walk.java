@@ -40,7 +40,7 @@ class Dog extends Animal{
 
 public class Walk {
     public static void main(String[] args) {
-        Animal animal= new Dog("sanket");
+        Animal animal= new Dog("coco");
         animal.show();
     }
 }
